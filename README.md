@@ -1,6 +1,6 @@
 ### Hi there, I'm Mahadiul Hasan 👋
 #### My [Portfolio][website] Website
-[website]: https://rasel5267.github.io/Mahadiuls_Portfolio/index.html
+[website]: https://mahadiuls-portfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/mahadiul-hasan-0a243b1ba/
 
 
